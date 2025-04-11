@@ -89,9 +89,9 @@ To solve this, we designed a **multi-agent system** that simulates customer beha
 
 ## 👥 Team
 
-- [Your Name], [Role]
-- [Teammate Name], [Role]
-- [Teammate Name], [Role]
+- [Bro_can_code], [GFG]
+- [Prem Raj], [Caption]
+- [Roushan Kr Jha], [Member]
 
 ---
 
